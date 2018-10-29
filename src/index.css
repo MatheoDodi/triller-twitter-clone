@@ -91,7 +91,6 @@ li {
   flex-direction: column;
 }
 
-/* Hacky but less typing in the video */
 .tweet-info > div > span:first-child {
   font-weight: bold;
   margin-right: 5px;
